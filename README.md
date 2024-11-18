@@ -13,8 +13,11 @@ https://github.com/user-attachments/assets/bf740696-daae-4af4-a560-d6545f125039
 
  • Built a secure MERN e-commerce platform with Node.js and Express.js, allowing admins to manage products, categories, and
  handle cart and buyfeatures, ensuring a smooth user experience.
+ 
  • DesignedaresponsivefrontendwithReactandTailwindCSS,enhancinguserexperience and reducing page load times by 40%.
+ 
  • Utilized MongoDBforscalabledatamanagementandensureddatasecurity withJWTauthentication andencryption.
+ 
  • Stack: MERN(MongoDB,Express.js,React, Node.js), JavaScript, APIs, TailwindCSS, JWT.
 
 
